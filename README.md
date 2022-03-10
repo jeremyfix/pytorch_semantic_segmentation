@@ -1,1 +1,1 @@
-# pytorch_semantic_segmentation
+# Semantic segmentation with pytorch - An Example
